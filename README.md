@@ -1,4 +1,5 @@
-# This project was created using `create-beth-app`
+# SaaS project with BETH stack
+- Create BETH app with [this](https://www.npmjs.com/package/create-beth-app) and the command `install create-beth-app@0.0.6`
 - open an issue [here](https://github.com/ethanniser/the-beth-stack)
 - forum [here](https://discord.gg/Z3yUtMfkwa)
 
@@ -23,3 +24,6 @@
 3. Run `fly secrets set <NAME>=<VALUE>` (probably want to set `NODE_ENV` to `"production"`)
 
 5. Run `fly deploy`
+
+## DevOps
+repo: `git remote add origin https://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@github.com/Lonitch/b2b-saas.git`
